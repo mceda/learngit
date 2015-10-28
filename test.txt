@@ -1,0 +1,3 @@
+this is a git test.txt document
+add by mac 
+20151028
